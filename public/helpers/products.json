@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Summer T-Shirt",
+      "category": "Women",
+      "price": { "old": "$25.00", "new": "$20.00" },
+      "discount": "-20%",
+      "image": "../PopularImages/product.jpg",
+      "colors": ["#FF5733", "#FFFFFF", "#000000"],
+      "sizes": ["S", "M", "L", "XL"],
+      "isPopular": true,
+      "onSale": true
+    },
+    {
+      "id": 2,
+      "name": "Casual Blazer",
+      "category": "Men",
+      "price": { "old": "$80.00", "new": "$72.00" },
+      "discount": "-10%",
+      "image": "../PopularImages/onsale-01.jpg",
+      "colors": ["#000000", "#2D2D2D", "#F5E1DA"],
+      "sizes": ["M", "L", "XL"],
+      "isPopular": false,
+      "onSale": true
+    },
+    {
+      "id": 3,
+      "name": "Denim Jacket",
+      "category": "Women",
+      "price": { "old": "$60.00", "new": "$50.00" },
+      "discount": "-17%",
+      "image": "../PopularImages/product-2.jpg",
+      "colors": ["#0033A0", "#A9A9A9"],
+      "sizes": ["S", "M", "L"],
+      "isPopular": true,
+      "onSale": false
+    },
+    {
+      "id": 4,
+      "name": "Graphic T-Shirt",
+      "category": "Men",
+      "price": { "old": "$30.00", "new": "$24.00 "},
+      "discount": "-20%",
+      "image": "../PopularImages/product-03.jpg",
+      "colors": ["#FFFFFF", "#1D3557"],
+      "sizes": ["M", "L", "XL"],
+      "isPopular": true,
+      "onSale": true
+    },
+    {
+      "id": 5,
+      "name": "Floral Dress",
+      "category": "Women",
+      "price": { "old": "$55.00", "new": "$48.00" },
+      "discount": "-12%",
+      "image": "../PopularImages/onsale02.jpg",
+      "colors": ["#E63946", "#FFFFFF"],
+      "sizes": ["XS", "S", "M"],
+      "isPopular": false,
+      "onSale": true
+    },
+    {
+      "id": 6,
+      "name": "Slim Fit Jeans",
+      "category": "Men",
+      "price": { "old": "$45.00", "new": "$38.00" },
+      "discount": "-15%",
+      "image": "https://images.unsplash.com/photo-1539185441755-769473a23570",
+      "colors": ["#003366", "#808080"],
+      "sizes": ["S", "M", "L", "XL"],
+      "isPopular": false,
+      "onSale": false
+    },
+    {
+      "id": 7,
+      "name": "Oversized Hoodie",
+      "category": "Unisex",
+      "price": { "old": "$70.00", "new": "$65.00" },
+      "discount": "-7%",
+      "image": "../PopularImages/product-09-a-600x731.jpg",
+      "colors": ["#111111", "#444444", "#D3D3D3"],
+      "sizes": ["M", "L", "XL"],
+      "isPopular": true,
+      "onSale": false
+    },
+    {
+      "id": 8,
+      "name": "Athletic Shorts",
+      "category": "Men",
+      "price": { "old": "$35.00", "new": "$29.00" },
+      "discount": "-17%",
+      "image": "../PopularImages/onsale03.jpg",
+      "colors": ["#222222", "#555555", "#CCCCCC"],
+      "sizes": ["S", "M", "L"],
+      "isPopular": false,
+      "onSale": true
+    },
+    {
+      "id": 9,
+      "name": "Striped Sweater",
+      "category": "Women",
+      "price": { "old": "$40.00", "new": "$32.00" },
+      "discount": "-20%",
+      "image": "../PopularImages/onsale-04.jpg",
+      "colors": ["#3C3C3C", "#EEEEEE", "#FF6347"],
+      "sizes": ["S", "M", "L"],
+      "isPopular": true,
+      "onSale": true
+    },
+    {
+      "id": 10,
+      "name": "Cargo Pants",
+      "category": "Men",
+      "price": { "old": "$50.00", "new": "$45.00" },
+      "discount": "-10%",
+      "image": "https://images.unsplash.com/photo-1589363478985-5e09e8e8e34d",
+      "colors": ["#6B4226", "#C4A484"],
+      "sizes": ["M", "L", "XL"],
+      "isPopular": false,
+      "onSale": false
+    }
+  ]
+  

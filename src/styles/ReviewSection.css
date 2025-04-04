@@ -1,0 +1,39 @@
+.review-container {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9eae5;
+  }
+  
+  .review-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  
+  .review-text {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-weight: 600;
+    color: #000;
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  
+  .star-rating {
+    font-size: 24px;
+    color: gold;
+    margin-top: 15px;
+  }
+  
+  .reviewer-name {
+    font-size: 16px;
+    color: gray;
+    margin-top: 10px;
+  }
+  
